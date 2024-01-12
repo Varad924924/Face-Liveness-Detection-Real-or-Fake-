@@ -10,6 +10,11 @@
 
 Start developing locally.
 
+## Inspiration
+https://github.com/jomariya23156/face-recognition-with-liveness-web-login
+
+I would highly suggest all of you to take a look at this wonderful repo which served as the inspiration for my project.
+
 ### Step 1: Clone the repo
 
 Fork the repository. then clone the repo locally by doing -

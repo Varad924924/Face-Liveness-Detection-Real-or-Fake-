@@ -15,7 +15,7 @@ Start developing locally.
 Fork the repository. then clone the repo locally by doing -
 
 ```sh
-git clone 
+git clone https://github.com/Varad924924/Face-Liveness-Detection-Real-or-Fake-
 ```
 
 ### Step 2: Create a virtual environment and activate it. (note: I have used pip)
